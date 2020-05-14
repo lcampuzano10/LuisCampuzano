@@ -182,7 +182,7 @@ main {
     padding: 0.5rem;
     border-bottom: #761aee 5px solid; }
   .about-info .education {
-    color: #761aee;
+    color: #7956a7;
     font-weight: 700;
     padding-left: 25px; }
   .about-info .school {
@@ -190,6 +190,9 @@ main {
     padding-left: 25px; }
   .about-info .topHead {
     color: #761aee;
+    font-weight: bold; }
+  .about-info .linkColor {
+    color: #5672ec;
     font-weight: bold; }
 
 .projects {
